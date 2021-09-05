@@ -7,7 +7,7 @@
   "chapters": {
     "1": {
       "title": "Chapter 1",
-      "volume": "1",
+      "volume": "Season 1",
       "groups": {
         "Reaper Scans": "/proxy/api/imgur/chapter/aiSmbAl/"
       },
@@ -15,7 +15,7 @@
     },
 	"2": {
       "title": "Chapter 2",
-      "volume": "1",
+      "volume": "Season 1",
       "groups": {
         "Reaper Scans": "/proxy/api/imgur/chapter/a0jeAUV/"
       },
@@ -23,7 +23,7 @@
     },
 	"3": {
       "title": "Chapter 3",
-      "volume": "1",
+      "volume": "Season 1",
       "groups": {
         "Reaper Scans": "/proxy/api/imgur/chapter/BtasTiO/"
       },
@@ -31,11 +31,91 @@
     },
 	"4": {
       "title": "Chapter 4",
-      "volume": "1",
+      "volume": "Season 1",
       "groups": {
         "Reaper Scans": "/proxy/api/imgur/chapter/oeYdB6Y/"
       },
       "last_updated": "1628870400"
-    }
+    },
+    	"5": {
+      "title": "Chapter 5",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/huDIsAv/"
+      },
+      "last_updated": "1628870400"
+    },
+    	"6": {
+      "title": "Chapter 6",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/V2tdj5o/"
+      },
+      "last_updated": "1628870400"
+    },
+    	"7": {
+      "title": "Chapter 7",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/2kUuppA/"
+      },
+      "last_updated": "1628870400"
+    },
+    	"8": {
+      "title": "Chapter 8",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/9rGER4f/"
+      },
+      "last_updated": "1628870400"
+    },
+    	"9": {
+      "title": "Chapter 9",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/gtcdZoU/"
+      },
+      "last_updated": "1628870400"
+    },
+    	"10": {
+      "title": "Chapter 10",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/5Fpjbl2/"
+      },
+      "last_updated": "1628870400"
+    },
+    	"11": {
+      "title": "Chapter 11",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/TcwnhbJ/"
+      },
+      "last_updated": "1628870400"
+    },
+    	"12": {
+      "title": "Chapter 12",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/giVX2QK/"
+      },
+      "last_updated": "1628870400"
+    },
+    	"13": {
+      "title": "Chapter 13",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/Mcd49uS/"
+      },
+      "last_updated": "1628870400"
+    },
+    	"14": {
+      "title": "Chapter 14",
+      "volume": "Season 1",
+      "groups": {
+        "Reaper Scans": "/proxy/api/imgur/chapter/bO1RDJW/"
+      },
+      "last_updated": "1628870400"
+    }  
   }
 }
